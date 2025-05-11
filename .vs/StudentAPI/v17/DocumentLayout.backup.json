@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\StudentApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE04CC7-49E0-4E33-92C5-35BA826ADA66}|StudentAPI\\StudentAPI.csproj|d:\\studentapi\\studentapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE04CC7-49E0-4E33-92C5-35BA826ADA66}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE04CC7-49E0-4E33-92C5-35BA826ADA66}|StudentAPI\\StudentAPI.csproj|d:\\studentapi\\studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE04CC7-49E0-4E33-92C5-35BA826ADA66}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE04CC7-49E0-4E33-92C5-35BA826ADA66}|StudentAPI\\StudentAPI.csproj|d:\\studentapi\\studentapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE04CC7-49E0-4E33-92C5-35BA826ADA66}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE04CC7-49E0-4E33-92C5-35BA826ADA66}|StudentAPI\\StudentAPI.csproj|d:\\studentapi\\studentapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE04CC7-49E0-4E33-92C5-35BA826ADA66}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE04CC7-49E0-4E33-92C5-35BA826ADA66}|StudentAPI\\StudentAPI.csproj|d:\\studentapi\\studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAE04CC7-49E0-4E33-92C5-35BA826ADA66}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE04CC7-49E0-4E33-92C5-35BA826ADA66}|StudentAPI\\StudentAPI.csproj|d:\\studentapi\\studentapi\\helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE04CC7-49E0-4E33-92C5-35BA826ADA66}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE04CC7-49E0-4E33-92C5-35BA826ADA66}|StudentAPI\\StudentAPI.csproj|d:\\studentapi\\studentapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE04CC7-49E0-4E33-92C5-35BA826ADA66}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE04CC7-49E0-4E33-92C5-35BA826ADA66}|StudentAPI\\StudentAPI.csproj|d:\\studentapi\\studentapi\\studentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AAE04CC7-49E0-4E33-92C5-35BA826ADA66}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\studentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE04CC7-49E0-4E33-92C5-35BA826ADA66}|StudentAPI\\StudentAPI.csproj|d:\\studentapi\\studentapi\\migrations\\20250430130951_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE04CC7-49E0-4E33-92C5-35BA826ADA66}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\migrations\\20250430130951_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE04CC7-49E0-4E33-92C5-35BA826ADA66}|StudentAPI\\StudentAPI.csproj|d:\\studentapi\\studentapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE04CC7-49E0-4E33-92C5-35BA826ADA66}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250430130951_InitialCreate.cs",
+              "DocumentMoniker": "D:\\StudentApi\\StudentAPI\\Migrations\\20250430130951_InitialCreate.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Migrations\\20250430130951_InitialCreate.cs",
+              "ToolTip": "D:\\StudentApi\\StudentAPI\\Migrations\\20250430130951_InitialCreate.cs",
+              "RelativeToolTip": "StudentAPI\\Migrations\\20250430130951_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:09:52.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\StudentApi\\StudentAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentAPI\\appsettings.json",
+              "ToolTip": "D:\\StudentApi\\StudentAPI\\appsettings.json",
+              "RelativeToolTip": "StudentAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T13:02:09.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\StudentApi\\StudentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Program.cs",
+              "ToolTip": "D:\\StudentApi\\StudentAPI\\Program.cs",
+              "RelativeToolTip": "StudentAPI\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:01:35.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\StudentApi\\StudentAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\StudentApi\\StudentAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentAPI\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:56:40.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\StudentApi\\StudentAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\StudentApi\\StudentAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "StudentAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:56:27.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\StudentApi\\StudentAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\StudentApi\\StudentAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "StudentAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:56:04.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\StudentApi\\StudentAPI\\Helpers\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Helpers\\PasswordHasher.cs",
+              "ToolTip": "D:\\StudentApi\\StudentAPI\\Helpers\\PasswordHasher.cs",
+              "RelativeToolTip": "StudentAPI\\Helpers\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:55:43.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\StudentApi\\StudentAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Models\\Student.cs",
+              "ToolTip": "D:\\StudentApi\\StudentAPI\\Models\\Student.cs",
+              "RelativeToolTip": "StudentAPI\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:55:01.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\StudentApi\\StudentAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Models\\User.cs",
+              "ToolTip": "D:\\StudentApi\\StudentAPI\\Models\\User.cs",
+              "RelativeToolTip": "StudentAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:54:51.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentAPI.csproj",
+              "DocumentMoniker": "D:\\StudentApi\\StudentAPI\\StudentAPI.csproj",
+              "RelativeDocumentMoniker": "StudentAPI\\StudentAPI.csproj",
+              "ToolTip": "D:\\StudentApi\\StudentAPI\\StudentAPI.csproj",
+              "RelativeToolTip": "StudentAPI\\StudentAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-30T12:54:09.863Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

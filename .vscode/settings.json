@@ -1,0 +1,7 @@
+{
+    "editor.inlineSuggest.edits.showCollapsed": true,
+    "editor.inlineSuggest.showToolbar": "always",
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "emmet.useInlineCompletions": true,
+    "notebook.inlineValues": "auto"
+}
